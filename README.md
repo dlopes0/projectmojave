@@ -29,23 +29,19 @@ on Debian/Ubuntu
 ```
 apt-get install openjdk-17-jre-headless
 ```
-
 ### 3. Run Minecraft Forge installer
 ```
 java -jar forge-1.12.2-14.23.5.2859-installer.jar --installServer
 ```
-
 ### 4. Run minecraft_server for the first time
 ```
 java -jar minecraft_server.1.12.2.jar
 ```
-
 ### 5. Accept eula.txt
 Change to
 ```
 eula=true
 ```
-
 ### 6. Run minecraft_server again
 ```
 java -jar minecraft_server.1.12.2.jar
