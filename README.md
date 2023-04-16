@@ -85,3 +85,6 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Serene Seasons                | 1.2.18                          | TheAdubbz        | https://www.curseforge.com/minecraft/mc-mods/serene-seasons                |
 | Pam's HarvestCraft            | 1.12.2zg                        | pamharvestcraft  | https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft             |
 | Growthcraft Community Edition | 4.2.2.1                         | Alatyami         | https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition |
+| Animania                      | 2.0.3.28                        | Purplicious_Cow_ | https://www.curseforge.com/minecraft/mc-mods/animania                      |
+| Animania Farm                 | 1.0.2.28                        | Purplicious_Cow_ | https://www.curseforge.com/minecraft/mc-mods/animania-farm                 |
+| Animania Extra                | 1.0.2.28                        | Purplicious_Cow_ | https://www.curseforge.com/minecraft/mc-mods/animania-extra                |
