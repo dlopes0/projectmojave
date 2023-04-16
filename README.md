@@ -65,10 +65,3 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Ice and Fire              | 1.9.1                | sbom_xela        | https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons      |
 | LLibrary                  | 1.7.20               | mmdlexiconn      | https://www.curseforge.com/minecraft/mc-mods/llibrary                  |
 | Lycanite's Mobs           | 2.0.8.9              | Lycanite         | https://www.curseforge.com/minecraft/mc-mods/lycanites-mobs            |
-
-## Mods To Be Included
-- Thaumcraft
-- Mr Crayfish's Mod Collection
-## Custom Mods (In development)
-- Economy-related Mod (Multiple currencies support, deposits and withdrawls, stocks, etc...)
-- Costume mod (Similar to skins in Vanilla Minecraft and the Hats mod)Semenkovsky_Ivan
