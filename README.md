@@ -64,6 +64,7 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Extra Utilities 2         | 1.9.9                | RWTema           | https://www.curseforge.com/minecraft/mc-mods/extra-utilities           |
 | Ice and Fire              | 1.9.1                | sbom_xela        | https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons      |
 | LLibrary                  | 1.7.20               | mmdlexiconn      | https://www.curseforge.com/minecraft/mc-mods/llibrary                  |
+| Lycanite's Mobs           | 2.0.8.9              | Lycanite         | https://www.curseforge.com/minecraft/mc-mods/lycanites-mobs            |
 
 ## Mods To Be Included
 - Thaumcraft
