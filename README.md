@@ -76,3 +76,7 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Industrial Foregoing      | 1.12.13-237                     | Buzz135          | https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing      |
 | OpenComputers             | 1.8.0-snapshot-20220917+efb20a2 | Sangar_          | https://www.curseforge.com/minecraft/mc-mods/opencomputers             |
 | Computronics              | 1.6.6                           | Vexatos          | https://wiki.vexatos.com/wiki:computronics                             |
+| Better Animals Plus       | 9.0.1                           | cybercat5555     | https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus         |
+| MalisisCore               | 6.5.1                           | Ordinastie       | https://www.curseforge.com/minecraft/mc-mods/malisiscore               |
+| MalisisDoors              | 7.3.0                           | Ordinastie       | https://www.curseforge.com/minecraft/mc-mods/malisisdoors              |
+
