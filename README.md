@@ -1,67 +1,6 @@
 # projectmojave
 Project Mojave: Minecraft Server Plugins, Mods and Custom Mods (1.12.2)
 
-<<<<<<< HEAD
-=======
-## How to Setup
-### 1. Cloning the Server
-#### 1.1. Install git:
-**on Alpine Linux** 
-```
-apk add git
-```
-**on Debian/Ubuntu**
-```
-apt-get install git
-```
-#### 1.2. Clone
-```
-git clone https://github.com/dlopes0/projectmojave.git
-```
-#### 1.3. Change directory
-```
-cd projectmojave
-```
-### 2. Install OpenJDK 17
-on Alpine Linux
-```
-apk add openjdk17-jre-headless
-```
-on Debian/Ubuntu
-```
-apt-get install openjdk-17-jre-headless
-```
-### 3. Run Minecraft Forge installer
-```
-java -jar forge-1.12.2-14.23.5.2859-installer.jar --installServer
-```
-### 4. Run minecraft_server for the first time
-```
-java -jar minecraft_server.1.12.2.jar
-```
-### 5. Accept eula.txt
-Change to
-```
-eula=true
-```
-### 6. Run minecraft_server again
-```
-java -jar minecraft_server.1.12.2.jar
-```
-### 7. Stop server after it loads completely with:
-```
-/stop
-```
-### 8. Change plugins-dir variable at config/sponge/global.conf to "${CANONICAL_GAME_DIR}/plugins"
-```
-plugins-dir="${CANONICAL_GAME_DIR}/plugins"
-```
-### 9. You're all set! Run minecraft_server each time to start the server.
-```
-java -Xmx6G -Xms32M -XX:-UseVMInterruptibleIO -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=$CPU_COUNT -XX:+AggressiveOpts -jar minecraft_server.1.12.2.jar --nogui
-```
-
->>>>>>> 6bb6aff2fc52b045d54cdb93e36ba0fbe7fa3787
 ## Compatibility
 ### Server-side (SpongeForge)
 Recommended version 1.12.2-2838-7.4.7
@@ -166,25 +105,25 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | bspkrsCore                    | 7.6.0.1                         | ZenCoder         | https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated            |
 
 ## How to Setup
-1. Cloning the Server
-1.1. Install git:
-on Alpine Linux 
+### 1. Cloning the Server
+#### 1.1. Install git:
+**on Alpine Linux** 
 ```
 apk add git
 ```
-on Debian/Ubuntu
+**on Debian/Ubuntu**
 ```
 apt-get install git
 ```
-1.2. Clone
+#### 1.2. Clone
 ```
 git clone https://github.com/dlopes0/projectmojave.git
 ```
-1.3. Change directory
+#### 1.3. Change directory
 ```
 cd projectmojave
 ```
-2. Install OpenJDK 17
+### 2. Install OpenJDK 17
 on Alpine Linux
 ```
 apk add openjdk17-jre-headless
@@ -193,36 +132,33 @@ on Debian/Ubuntu
 ```
 apt-get install openjdk-17-jre-headless
 ```
-
-3. Run Minecraft Forge installer
+### 3. Run Minecraft Forge installer
 ```
 java -jar forge-1.12.2-14.23.5.2859-installer.jar --installServer
 ```
-
-4. Run minecraft_server for the first time
+### 4. Run minecraft_server for the first time
 ```
 java -jar minecraft_server.1.12.2.jar
 ```
-
-5. Accept eula.txt
+### 5. Accept eula.txt
 Change to
 ```
 eula=true
 ```
-
-6. Run minecraft_server again
+### 6. Run minecraft_server again
 ```
 java -jar minecraft_server.1.12.2.jar
 ```
-7. Stop server after it loads completely with:
+### 7. Stop server after it loads completely with:
 ```
 /stop
 ```
-8. Change plugins-dir variable at config/sponge/global.conf to "${CANONICAL_GAME_DIR}/plugins"
+### 8. Change plugins-dir variable at config/sponge/global.conf to "${CANONICAL_GAME_DIR}/plugins"
 ```
 plugins-dir="${CANONICAL_GAME_DIR}/plugins"
 ```
-9. You're all set! Run minecraft_server each time to start the server.
+### 9. You're all set! Run minecraft_server each time to start the server.
 ```
 java -Xmx6G -Xms32M -XX:-UseVMInterruptibleIO -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=$CPU_COUNT -XX:+AggressiveOpts -jar minecraft_server.1.12.2.jar --nogui
 ```
+
