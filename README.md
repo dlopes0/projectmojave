@@ -101,3 +101,10 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | CodeChicken Lib               | 3.2.3.358                       | covers1624       | https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8           |
 | CoFH World                    | 1.4.0.1                         | Team CoFH        | https://www.curseforge.com/minecraft/mc-mods/cofh-world                    |
 | Shadowfacts' Forgelin         | 1.8.4                           | ShadowfactsDev   | https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin          |
+| Applied Energistics 2         | rv6-stable-7                    | AlgorithmX2      | https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2         |
+| SecurityCraft                 | 1.9.6                           | Geforce132       | https://www.curseforge.com/minecraft/mc-mods/security-craft                |
+| Optifine                      | HD U G5                         | sp614x           | https://www.optifine.net                                                   |
+| GalacticCraft Core            | 4.0.2.280                       | micdoodle8       | https://micdoodle8.com/mods/galacticraft                                   |
+| GalacticCraft Planets         | 4.0.2.280                       | micdoodle8       | https://micdoodle8.com/mods/galacticraft                                   |
+| MicdoodleCore                 | 4.0.2.280                       | micdoodle8       | https://micdoodle8.com/mods/galacticraft                                   |
+| Treecapitator                 | 1.43.0                          | ZenCoder         | https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated         |
