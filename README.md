@@ -92,3 +92,4 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Traveler's Backpack           | 1.0.35                          | Tiviacz1337      | https://www.curseforge.com/minecraft/mc-mods/travelers-backpack            |
 | Conforts                      | 1.4.1.3                         | TheIllusiveC4    | https://www.curseforge.com/minecraft/mc-mods/comforts                      |
 | OpenBlocks Elevator           | 1.3.14                          | vsngarcia        | https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator           |
+| BiblioCraft                   | 2.4.6                           | Nuchaz           | https://www.curseforge.com/minecraft/mc-mods/bibliocraft                   |
