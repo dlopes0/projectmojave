@@ -80,4 +80,4 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Better Animals Plus       | 9.0.1                           | cybercat5555     | https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus         |
 | MalisisCore               | 6.5.1                           | Ordinastie       | https://www.curseforge.com/minecraft/mc-mods/malisiscore               |
 | MalisisDoors              | 7.3.0                           | Ordinastie       | https://www.curseforge.com/minecraft/mc-mods/malisisdoors              |
-
+| Railcraft                 | 12.1.0-beta-8                   | Covert_Jaguar    | https://www.curseforge.com/minecraft/mc-mods/railcraft                 |
