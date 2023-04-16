@@ -55,7 +55,7 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Thaumcraft                | 6.1.BETA26           | Azanor13         | https://www.curseforge.com/minecraft/mc-mods/thaumcraft                |
 | Thaumic Augmentation      | 2.1.11               | TheCodex6824     | https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation      |
 | Waystones                 | 4.1.0                | BlayTheNinth     | https://www.curseforge.com/minecraft/mc-mods/waystones                 |
-| Xaero's Minimap           | 23.3.3               | Xaero            | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap            |
+| Xaero's Minimap           | 23.3.3               | xaero96          | https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap            |
 | Hats                      | 7.1.1                | ohaiiChun        | https://www.curseforge.com/minecraft/mc-mods/hats                      |
 | More Player Models        | 05Dec19              | Noppes           | https://www.curseforge.com/minecraft/mc-mods/more-player-models        |
 | Tinkers' Construct        | 2.13.0.183           | mDiyo            | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct         |
