@@ -100,3 +100,4 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Tesla Core Lib                | 1.0.18                          | face_of_cat      | https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib                |
 | CodeChicken Lib               | 3.2.3.358                       | covers1624       | https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8           |
 | CoFH World                    | 1.4.0.1                         | Team CoFH        | https://www.curseforge.com/minecraft/mc-mods/cofh-world                    |
+| Shadowfacts' Forgelin         | 1.8.4                           | ShadowfactsDev   | https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin          |
