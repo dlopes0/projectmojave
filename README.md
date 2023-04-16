@@ -88,3 +88,7 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Animania                      | 2.0.3.28                        | Purplicious_Cow_ | https://www.curseforge.com/minecraft/mc-mods/animania                      |
 | Animania Farm                 | 1.0.2.28                        | Purplicious_Cow_ | https://www.curseforge.com/minecraft/mc-mods/animania-farm                 |
 | Animania Extra                | 1.0.2.28                        | Purplicious_Cow_ | https://www.curseforge.com/minecraft/mc-mods/animania-extra                |
+| Immersive Engineering         | 0.12-98                         | BluSunrize       | https://www.curseforge.com/minecraft/mc-mods/immersive-engineering         |
+| Traveler's Backpack           | 1.0.35                          | Tiviacz1337      | https://www.curseforge.com/minecraft/mc-mods/travelers-backpack            |
+| Conforts                      | 1.4.1.3                         | TheIllusiveC4    | https://www.curseforge.com/minecraft/mc-mods/comforts                      |
+| OpenBlocks Elevator           | 1.3.14                          | vsngarcia        | https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator           |
