@@ -65,3 +65,9 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Ice and Fire              | 1.9.1                | sbom_xela        | https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons      |
 | LLibrary                  | 1.7.20               | mmdlexiconn      | https://www.curseforge.com/minecraft/mc-mods/llibrary                  |
 | Lycanite's Mobs           | 2.0.8.9              | Lycanite         | https://www.curseforge.com/minecraft/mc-mods/lycanites-mobs            |
+| CoFH Core                 | 4.6.6.1              | TeamCoFH         | https://www.curseforge.com/minecraft/mc-mods/cofh-core                 |
+| Thermal Foundation        | 2.6.7.1              | TeamCoFH         | https://www.curseforge.com/minecraft/mc-mods/thermal-foundation        |
+| Thermal Expansion         | 5.5.7.1              | TeamCoFH         | https://www.curseforge.com/minecraft/mc-mods/thermal-expansion         |
+| Thermal Cultivation       | 0.3.6.1              | TeamCoFH         | https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation       |
+| Thermal Dynamics          | 2.5.6.1              | TeamCoFH         | https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics          |
+| Thermal Innovation        | 0.3.6.1              | TeamCoFH         | https://www.curseforge.com/minecraft/mc-mods/thermal-innovation        |
