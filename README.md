@@ -93,3 +93,10 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Conforts                      | 1.4.1.3                         | TheIllusiveC4    | https://www.curseforge.com/minecraft/mc-mods/comforts                      |
 | OpenBlocks Elevator           | 1.3.14                          | vsngarcia        | https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator           |
 | BiblioCraft                   | 2.4.6                           | Nuchaz           | https://www.curseforge.com/minecraft/mc-mods/bibliocraft                   |
+| CraftStudio API               | 1.0.1.95-mc1.12-alpha           | jibiay           | https://www.curseforge.com/minecraft/mc-mods/craftstudio-api               |
+| Redstone Flux                 | 2.1.1.1                         | TeamCoFH         | https://www.curseforge.com/minecraft/mc-mods/redstone-flux                 |
+| Mantle                        | 1.3.3.55                        | mDiyo            | https://www.curseforge.com/minecraft/mc-mods/mantle                        |
+| iChunUtil                     | 7.2.2                           | ohaiiChun        | https://www.curseforge.com/minecraft/mc-mods/ichunutil                     |
+| Tesla Core Lib                | 1.0.18                          | face_of_cat      | https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib                |
+| CodeChicken Lib               | 3.2.3.358                       | covers1624       | https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8           |
+| CoFH World                    | 1.4.0.1                         | Team CoFH        | https://www.curseforge.com/minecraft/mc-mods/cofh-world                    |
