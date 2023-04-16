@@ -3,11 +3,11 @@ Project Mojave: Minecraft Server Plugins, Mods and Custom Mods (1.12.2)
 
 ## Compatibility
 ### Server-side (SpongeForge)
-Recommended version 1.12.2-2838-7.4.7
-Direct URL: https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar
+- Recommended version 1.12.2-2838-7.4.7
+- Direct URL: https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar
 ### Client-side (Forge)
-Recommended version 1.12.2-14.23.5.2859 
-Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-installer.jar
+- Recommended version 1.12.2-14.23.5.2859 
+- Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-installer.jar
 
 ## Plugin and Mod List
 ### Plugin List
