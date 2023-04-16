@@ -31,6 +31,7 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | WarpSpawn                 | 1.13.0-S7.1                     | WarpSpawns       | https://ore.spongepowered.org/Brycey92/WarpSpawns                      |
 | CatClearLag               | 0.9.0                           | TimeTheCat       | https://ore.spongepowered.org/TimeTheCat/CatClearLag                   |
 | BlueMap                   | 1.5.5                           | Blue             | https://ore.spongepowered.org/Blue/BlueMap                             |
+| Pieconomy                 | 0.6.2                           | pie_flavor       | https://ore.spongepowered.org/pie_flavor/Pieconomy                     |
 
 ### Mod List
 | Name                      | Version                         | Author           | URL                                                                    |
