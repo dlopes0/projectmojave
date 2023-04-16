@@ -80,7 +80,7 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Better Animals Plus           | 9.0.1                           | cybercat5555     | https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus             |
 | MalisisCore                   | 6.5.1                           | Ordinastie       | https://www.curseforge.com/minecraft/mc-mods/malisiscore                   |
 | MalisisDoors                  | 7.3.0                           | Ordinastie       | https://www.curseforge.com/minecraft/mc-mods/malisisdoors                  |
-| Railcraft                     | 12.1.0-beta-8                   | Covert_Jaguar    | https://www.curseforge.com/minecraft/mc-mods/railcraft                     |
+| Railcraft                     | 12.0.0                          | Covert_Jaguar    | https://www.curseforge.com/minecraft/mc-mods/railcraft                     |
 | Tough as Nails                | 3.1.0.141                       | TheAdubbz        | https://www.curseforge.com/minecraft/mc-mods/tough-as-nails                |
 | Serene Seasons                | 1.2.18                          | TheAdubbz        | https://www.curseforge.com/minecraft/mc-mods/serene-seasons                |
 | Pam's HarvestCraft            | 1.12.2zg                        | pamharvestcraft  | https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft             |
