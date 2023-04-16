@@ -61,6 +61,9 @@ Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.
 | Tinkers' Construct        | 2.13.0.183           | mDiyo            | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct         |
 | Tinkers' Tool Leveling    | 1.1.0                | bonusboni        | https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling     |
 | Construct's Armory        | 1.2.5.10             | TheIllusiveC4    | https://www.curseforge.com/minecraft/mc-mods/constructs-armory         |
+| Extra Utilities 2         | 1.9.9                | RWTema           | https://www.curseforge.com/minecraft/mc-mods/extra-utilities           |
+| Ice and Fire              | 1.9.1                | sbom_xela        | https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons      |
+| LLibrary                  | 1.7.20               | mmdlexiconn      | https://www.curseforge.com/minecraft/mc-mods/llibrary                  |
 
 ## Mods To Be Included
 - Thaumcraft
