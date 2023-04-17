@@ -153,12 +153,16 @@ java -jar minecraft_server.1.12.2.jar
 ```
 /stop
 ```
-### 8. Change plugins-dir variable at config/sponge/global.conf to "${CANONICAL_GAME_DIR}/plugins"
+### 8. Install JDK 8
+From Bellsoft if you're using Debian >= 11:
 ```
-plugins-dir="${CANONICAL_GAME_DIR}/plugins"
+wget https://download.bell-sw.com/java/8u362+9/bellsoft-jdk8u362+9-linux-amd64.deb 
+sudo dpkg -i bellsoft-jdk8u362+9-linux-amd64.deb
+sudo update-alternatives --config java
 ```
+and select Java 8...
 ### 9. You're all set! Run minecraft_server each time to start the server.
 ```
-java -Xmx6G -Xms32M -XX:-UseVMInterruptibleIO -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=$CPU_COUNT -XX:+AggressiveOpts -jar minecraft_server.1.12.2.jar --nogui
+java -Xmx6G -Xms32M -XX:ParallelGCThreads=2 -jar forge-1.12.2-14.23.5.2859.jar --nogui
 ```
 
