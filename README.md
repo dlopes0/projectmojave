@@ -26,6 +26,7 @@ Project Mojave: Minecraft Server Plugins, Mods and Custom Mods (1.12.2)
 | CatClearLag                   | 0.9.0                           | TimeTheCat       | https://ore.spongepowered.org/TimeTheCat/CatClearLag                       |
 | BlueMap                       | 1.5.5                           | Blue             | https://ore.spongepowered.org/Blue/BlueMap                                 |
 | Pieconomy                     | 0.6.2                           | pie_flavor       | https://ore.spongepowered.org/pie_flavor/Pieconomy                         |
+| TrixtaLogin                   | 1.3                             | Wilmer_Cedeño    | https://ore.spongepowered.org/Wilmer_Cede%C3%B1o/TrixtaLogin               |
 
 ### Mod List
 | Name                          | Version                         | Author           | URL                                                                        |
@@ -103,6 +104,8 @@ Project Mojave: Minecraft Server Plugins, Mods and Custom Mods (1.12.2)
 | MicdoodleCore                 | 4.0.2.280                       | micdoodle8       | https://micdoodle8.com/mods/galacticraft                                   |
 | Treecapitator                 | 1.43.0                          | ZenCoder         | https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated         |
 | bspkrsCore                    | 7.6.0.1                         | ZenCoder         | https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated            |
+| GraveStone                    | 1.10.3                          | henkelmax        | https://www.curseforge.com/minecraft/mc-mods/gravestone-mod                |
+| OfflineSkins                  | 1.19.4                          | LainMI           | https://www.curseforge.com/minecraft/mc-mods/offlineskins                  |
 
 ## How to Setup
 ### 1. Cloning the Server
