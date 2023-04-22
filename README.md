@@ -26,7 +26,7 @@ Project Mojave: Minecraft Server Plugins, Mods and Custom Mods (1.12.2)
 | CatClearLag                   | 0.9.0                           | TimeTheCat       | https://ore.spongepowered.org/TimeTheCat/CatClearLag                       |
 | BlueMap                       | 1.5.5                           | Blue             | https://ore.spongepowered.org/Blue/BlueMap                                 |
 | Pieconomy                     | 0.6.2                           | pie_flavor       | https://ore.spongepowered.org/pie_flavor/Pieconomy                         |
-| TrixtaLogin                   | 1.3                             | Wilmer_Cedeño    | https://ore.spongepowered.org/Wilmer_Cede%C3%B1o/TrixtaLogin               |
+| StaffAuth                     | 1.1.3                           | ryan96t          | https://ore.spongepowered.org/ryan96t/StaffAuth                            |
 
 ### Mod List
 | Name                          | Version                         | Author           | URL                                                                        |
