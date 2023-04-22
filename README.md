@@ -6,8 +6,8 @@ Project Mojave: Minecraft Server Plugins, Mods and Custom Mods (1.12.2)
 - Recommended version 1.12.2-2838-7.4.7
 - Direct URL: https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar
 ### Client-side (Forge)
-- Recommended version 1.12.2-14.23.5.2859 
-- Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-installer.jar
+- Recommended version 1.12.2-14.23.5.2860 
+- Direct URL: https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar
 
 ## Plugin and Mod List
 ### Plugin List
@@ -96,7 +96,7 @@ Project Mojave: Minecraft Server Plugins, Mods and Custom Mods (1.12.2)
 | CoFH World                    | 1.4.0.1                         | Team CoFH        | https://www.curseforge.com/minecraft/mc-mods/cofh-world                    |
 | Shadowfacts' Forgelin         | 1.8.4                           | ShadowfactsDev   | https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin          |
 | Applied Energistics 2         | rv6-stable-7                    | AlgorithmX2      | https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2         |
-| SecurityCraft                 | 1.9.6                           | Geforce132       | https://www.curseforge.com/minecraft/mc-mods/security-craft                |
+| SecurityCraft                 | 1.8.20.2                        | Geforce132       | https://www.curseforge.com/minecraft/mc-mods/security-craft                |
 | Optifine                      | HD U G5                         | sp614x           | https://www.optifine.net                                                   |
 | GalacticCraft Core            | 4.0.2.280                       | micdoodle8       | https://micdoodle8.com/mods/galacticraft                                   |
 | GalacticCraft Planets         | 4.0.2.280                       | micdoodle8       | https://micdoodle8.com/mods/galacticraft                                   |
@@ -134,7 +134,7 @@ apt-get install openjdk-17-jre-headless
 ```
 ### 3. Run Minecraft Forge installer
 ```
-java -jar forge-1.12.2-14.23.5.2859-installer.jar --installServer
+java -jar forge-1.12.2-14.23.5.2860-installer.jar --installServer
 ```
 ### 4. Run minecraft_server for the first time
 ```
@@ -163,6 +163,6 @@ sudo update-alternatives --config java
 and select Java 8...
 ### 9. You're all set! Run minecraft_server each time to start the server.
 ```
-java -Xmx6G -Xms32M -XX:ParallelGCThreads=2 -jar forge-1.12.2-14.23.5.2859.jar --nogui
+java -Xmx6G -Xms32M -XX:ParallelGCThreads=2 -jar forge-1.12.2-14.23.5.2860.jar --nogui
 ```
 
